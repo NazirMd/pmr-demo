@@ -1,0 +1,600 @@
+.petupdatetext1{
+font-size: 14px;
+font-weight: 600;
+color:#000000;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.petupdatetext2{
+padding-left: 5px;
+font-size: 14px;
+color:#000000;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.petupdatetext3{
+font-size: 14px;
+color:#000000;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.publishmessageproperties
+{
+font-size: 18px;
+font-weight: 600;
+color:#AA0078;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.publishtext1
+{
+font-size: 16px;
+color:#ffffff;
+font-family: 'Roboto', Arial, sans-serif;
+padding-right: 5px;
+}
+a.publishtext1
+{
+font-size: 16px;
+color:#ffffff;
+font-family: 'Roboto', Arial, sans-serif;
+text-decoration: none;
+}
+.startpetproperties{
+padding-top: 10px;
+background-color:#f3f2f2;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.petitionquestions{
+font-weight: 600;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.petitiontext1{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+padding-top: 10px;
+}
+.image-content{
+padding-top:2%;
+padding-left: 1%;
+}
+.slide-content
+{
+padding-top:4%;
+padding-left: 1%;
+}
+.slide-content h4
+{
+font-family: 'Roboto', Arial, sans-serif;
+color:#000000;font-weight: 600;
+font-size: 16px;
+}
+.slide-content p {
+font-size: 14px;
+margin-bottom: 0px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#000000;
+}
+.footerproperties
+{
+width: 100%;
+background-color: #95AD19;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.logoproperties{
+color:#95AD19;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+font-size: 24px;
+}
+a.logoproperties {
+text-decoration: none;color:#95AD19;
+}
+a.logoproperties:hover{
+color:#95AD19;
+text-decoration: none;
+}
+.sublogoproperties
+{
+//font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+font-size: 14px;
+color:#000000;
+text-align: left;
+}
+.signpetitionproperties
+{
+font-weight: 600;
+font-size: 18px;
+color:#AA0078;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.petitiondetails
+{
+background-color:#f3f2f2 ;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+padding-bottom: 10px;
+}
+.petitionlabel{
+font-size: 16px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.paneltext
+{
+background-color:#f3f2f2 ;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.paneltext2
+{
+font-size: 18px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+color:#006400;
+}
+.paneltext3{
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.paneltext4{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.paneltext5
+{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.paneltext6{
+font-size: 18px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+color:	#0000FF;
+}
+.paneltext7{
+font-size: 16px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+color:#006400;
+}
+.paneltext8
+{
+font-size: 16px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+color:#006400;
+}
+.paneltext9
+{
+font-size: 14px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+font-style: italic;
+}
+.paneltext10
+{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+padding-bottom: 10px;
+}
+a.paneltext8 {
+font-size: 16px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+color:#006400;
+text-decoration: none;
+}
+a.paneltext5{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+color: #006400;
+text-decoration: none;
+}
+a.paneltext5:hover{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+color: 	#00008B;
+text-decoration: none;
+}
+.petitionsucess
+{
+background-color:     #051da5    ;
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+color: #ffffff;
+}
+.supporterproperties
+{
+font-family: 'Roboto', Arial, sans-serif;
+font-size: 16px;
+color:#AA0078;
+}
+.trendingtext{
+font-family: 'Roboto', Arial, sans-serif;
+font-weight: 600;
+font-size: 20px;
+margin-top:3%; color:#000000;
+}
+.pettext1{
+font-family: 'Roboto', Arial, sans-serif;
+font-size: 14px;
+font-weight: 600;
+color:#C13100;text-align: justify;
+}
+.pettext2{
+font-family: 'Roboto', Arial, sans-serif;
+font-size: 14px;
+color:#000000;
+text-align: justify;
+}
+.pettext3
+{
+padding-top: 5px;
+font-family: 'Roboto', Arial, sans-serif;
+font-size: 14px;
+font-weight: 600;
+color:#C13100;text-align: justify;
+}
+/*///////////*/
+.navbar-default {
+background-color: #397F40;
+color: #ffffff;  
+//background-color: #ffffff;
+border-color: #ffffff;
+min-height: 100px;
+padding-top:  15px;
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.navbar-default .navbar-brand {
+color: #000000;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+color: #3a539b;
+}
+.navbar-default .navbar-text {
+color: #000000;
+}
+.navbar-default .navbar-nav > li > a {
+color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+color: #3a539b;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+color: #3a539b;
+background-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+color: #3a539b;
+background-color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+border-color: #ffffff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+background-color: #ffffff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+background-color: #000000;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+border-color: #000000;
+}
+.navbar-default .navbar-link {
+color: #000000;
+}
+.navbar-default .navbar-link:hover {
+color: #3a539b;
+}
+@media (max-width: 767px) {
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+color: #ffffff;
+background-color:#95AD19;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+color: #000000;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+color: #3a539b;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+color: #3a539b;
+background-color: #ffffff;
+}
+}
+/*///////////*/
+.footertext{
+font-size: 16px;
+color:#000000;
+font-family: 'Roboto', Arial, sans-serif;
+}
+a.footertext{
+text-decoration:none;
+color:#000000;   font-family: 'Roboto', Arial, sans-serif;
+}
+a.footertext:hover{
+color:#000000; font-family: 'Roboto', Arial, sans-serif;
+}
+.footertext2
+{
+font-size: 14px;
+color:#000000;
+font-family: 'Roboto', Arial, sans-serif;
+}
+a.footertext2{
+text-decoration:none;
+color:#000000;   font-family: 'Roboto', Arial, sans-serif;
+}
+a.footertext2:hover{
+color:#000000; font-family: 'Roboto', Arial, sans-serif;
+}
+.motivetext{
+font-size: 20px;
+font-weight: 600;
+font-family: 'Roboto', Arial, sans-serif;
+color:#000000;
+}
+.motivetext2{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#000000;
+}
+.headstriptext{
+padding-top: 10px;
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#ffffff;
+}
+/*..........*/
+.faqHeader {
+font-size: 22px;
+margin-top: 20px;
+font-family: 'Roboto', Arial, sans-serif;
+padding-bottom: 10px;
+}
+.faqtext{
+color:#0000A0;
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.faqtext2 {
+color:#000000;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.addresstext
+{
+padding-top: 4%;
+}
+.textmessage{
+color:#FFCC00;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.contacttext{
+color:#ffffff;
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+background-color: #00578A;
+}
+.signuppanel
+{
+color: #000000;
+background-color:  #C5EFFD;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+}
+.contactpanel2{
+background-color:   #f3f2f2 ;
+padding-top:20px;font-family: 'Roboto', Arial, sans-serif;
+}
+.petitionpanelone{
+padding-top: 20px;
+}
+/***************/
+#arrow-variations {
+padding: 5px;
+-webkit-transition: 0.5s;
+-o-transition: 0.5s;
+transition: 0.5s;
+position: fixed;
+right: 0;
+top: 100px;
+z-index: 999999;
+background: #3A3A3C;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+height: auto;
+width: 200px;
+}
+#arrow-variations.sleep {
+margin-right:  -200px;
+}
+#arrow-variations2 {
+padding: 5px;
+-webkit-transition: 0.5s;
+-o-transition: 0.5s;
+transition: 0.5s;
+position: fixed;
+right: 0;
+top: 100px;
+z-index: 999999;
+background: #3A3A3C;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+height: auto;
+width: 200px;
+}
+#arrow-variations2.sleep {
+margin-right:  -200px;
+}
+#arrow-variations3 {
+//padding-top: 7px;
+-webkit-transition: 0.5s;
+-o-transition: 0.5s;
+transition: 0.5s;
+position: fixed;
+right: 0;
+top: 100px;
+z-index: 999999;
+background: #f3f2f2;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+height: auto;
+width: 42px;
+}
+#arrow-variations3.sleep {
+margin-right:  -42px;
+}
+#arrow-variations4 {
+//padding-top: 7px;
+-webkit-transition: 0.5s;
+-o-transition: 0.5s;
+transition: 0.5s;
+position: fixed;
+right: 0;
+top: 100px;
+z-index: 999999;
+background: #3A3A3C;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+height: auto;
+width: 200px;
+}
+#arrow-variations4.sleep {
+margin-right:  -200px;
+}
+.option-toggle1 {
+position: absolute;
+left:0;
+top: 0;
+margin-top: 5px;
+margin-left: -30px;
+width: 30px;
+height: 30px;
+background: #000000;
+text-align: center;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+color: #fff;
+cursor: pointer;
+-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+}
+.option-toggle1 i {
+top: 2px;
+position: relative;
+}
+.option-toggle1:hover, .option-toggle1:focus, .option-toggle1:active {
+color:  #fff;
+text-decoration: none;
+outline: none;
+}
+.option-toggle2 {
+position: absolute;
+left:0;
+top: 0;
+margin-top: 5px;
+margin-left: -30px;
+width: 30px;
+height: 30px;
+background: #000000;
+text-align: center;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+color: #fff;
+cursor: pointer;
+-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
+}
+.option-toggle12 {
+top: 2px;
+position: relative;
+}
+.option-toggle2:hover, .option-toggle2:focus, .option-toggle2:active {
+color:  #fff;
+text-decoration: none;
+outline: none;
+}
+/***************/
+.arrowproperties
+{
+margin-top:  100px;
+}
+.paneltext11{
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#ffffff;
+}
+a.paneltext11 {
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#ffffff;
+text-decoration: none;
+}
+a.paneltext11:hover {
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#95AD19;
+text-decoration: none;
+}
+.paneltext12
+{
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#ffffff;
+}
+.paneltext13{
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#000000;
+font-weight: 600;
+}
+.paneltext14{
+font-size: 16px;
+font-family: 'Roboto', Arial, sans-serif;
+color:#000000;
+font-weight: 600;
+}
+
+.signpetitiondetails
+{
+    
+background-color:#c4c8dd;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+
+}

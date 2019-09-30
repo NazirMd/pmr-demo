@@ -1,0 +1,406 @@
+html,
+
+body {    
+    
+    height: 100%;
+}
+
+body {
+  padding-top: 60px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+.carousel 
+{   
+    height: 400px;
+}
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 120px;
+}
+
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+.footerproperties
+{
+    background-color: #e5ddaf;
+    color:#7b0f20;
+    width: 100%;
+    height: 80px;  
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.contacttext{
+    
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    color: #000000;
+}
+.contacttext2{
+    
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    color: #000000;
+}
+
+.indexproperties
+{
+    color:#F6FA9C;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 25px;    
+   
+   
+}
+.indexproperties3
+{
+    color:#F6FA9C;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 22px; 
+}
+.indexproperties2
+{
+    color:#F6FA9C;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 30px;  
+   
+}
+.indextextproperties
+{
+    color:#FFFFFF;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 16px;    
+    margin-top:1%;
+    text-align: justify;   
+    
+}
+.indextextproperties2{
+    
+    color:#F6FA9C;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 18px;    
+    margin-top:1%;
+    text-align: justify;    
+    
+}
+.linktextproperties{
+    
+    color:#FFFFFF;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 16px;    
+    margin-top:1%;
+}
+
+.listproperties{
+    
+    color:#ffffff;
+}
+.footerlink{
+     margin-top:30px;font-weight: 600;
+}
+.footertext{    
+   
+    color:#000000;
+   // font-weight: 600;   
+    
+}
+a.footertext{   
+    
+     text-decoration:none;     
+     color:#7b0f20;     
+}
+
+a.footertext:hover{
+    
+      color:#7b0f20;   
+}
+.headerwrap {   
+        
+        background-color: #7b0f20;        
+	height: auto;	
+	text-align: left;
+        width: 100%;
+        padding-top:45px;
+        padding-bottom:20px;
+}
+.headerwraphome{
+    
+        background-color: #7b0f20;
+	height: auto;	
+	text-align: left;
+        width: 100%;
+        padding-top:0px;
+        padding-bottom:20px;    
+}
+.slide-content
+{
+   
+  margin-top:2%;
+    
+}
+
+
+#headerwrap .img-responsive {
+    
+	margin: 0 auto;
+}
+
+.logotext{
+    
+    font-size: 24px;
+    font-weight: 600;    
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+}
+
+.navbartext1{
+    
+    text-align: left;
+    color: #ffffff; 
+    display: inline;
+    font-size: 16px;     
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+}
+.navbartext2{
+    
+    text-align: left; 
+    color: #eb9316; 
+    display: none; 
+    font-size: 16px; 
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+}
+
+
+/*///////////*/
+
+.navbar-default {    
+  background-color: #397F40;
+  color: #ffffff;    
+  //background-color: #000000;
+  border-color: #000000;
+  min-height: 50px;
+  padding-top: 5px;  
+  font-size: 16px;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #ffffff;
+}
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff; 
+  
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;  
+  
+  }
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #000000;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #ffffff;
+  background-color: #000000;
+}
+.navbar-default .navbar-toggle {
+  border-color: #000000;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #000000;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+  color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+  color: #ffffff;
+}
+ .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #000000;
+    background-color: #ffffff;
+    padding-bottom:5px; 
+    padding-top:5px; 
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #000000;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+      color: #000000;   
+  }
+@media (max-width: 767px) {
+   
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    
+  color: #ffffff;  
+  background-color:#008000;  
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #000000;
+    background-color: #ffffff;
+    padding-bottom:10px; 
+    padding-top:10px;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ffffff;
+     background-color: #FF5733;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+      color: #ffffff;
+     background-color: #005A04;
+  }
+  
+}
+
+.thumbnail .imageproperties
+{   
+    height:150px;    
+}
+.logoimg{
+    
+    background-color: #000000; 
+    border-color: #000000;
+    padding-top: 0px;
+}
+.navtext{
+    
+    padding-top: 5px;
+}
+
+
+.register_form{
+    
+    background-color: #ffffff;
+    color: #000000;
+}
+
+
+.form_header{    
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.upload_file
+{
+ 
+    margin-top: 100px;
+    
+}
+
+.MenuPanel{
+    
+    background-color: #7b0f20;
+    color: #ffffff;
+}
+
+.Menutabletd1
+{
+    width: 300px;
+}
+
+.Menutabletd2
+{
+    width: 300px;
+}
+
+.logoproperties1
+{
+    color: #ffffff;
+    margin-left: 5px;
+    font-size: 24px;
+    font-weight: 600;
+}
+a.logoproperties1 {
+text-decoration: none;color:#ffffff;
+}
+a.logoproperties1:hover{
+color:#ffffff;
+text-decoration: none;
+}
+
+.indexcontainer
+{
+    //margin-top: 100px;
+}
+.signuppanel
+{
+color: #000000;
+background-color:  #C5EFFD;
+font-size: 14px;
+font-family: 'Roboto', Arial, sans-serif;
+margin-bottom: 2%;
+}
+.footertext2
+{
+font-size: 14px;
+color:#000000;
+font-family: 'Roboto', Arial, sans-serif;
+}
+a.footertext2{
+text-decoration:none;
+color:#000000;   font-family: 'Roboto', Arial, sans-serif;
+}
+a.footertext2:hover{
+color:#000000; font-family: 'Roboto', Arial, sans-serif;
+}
+
+.footerproperties2
+{
+font-size:16px;
+background-color: #397F40;
+margin-top: 5%;
+}
+
+.mainpanel1{
+    
+    min-height:  70%;
+}

@@ -1,0 +1,701 @@
+[28-Sep-2017 14:11:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:11:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[28-Sep-2017 14:11:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:11:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Processed_Orders.php on line 60
+[28-Sep-2017 14:11:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:11:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:12:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/menu_list.php on line 57
+[28-Sep-2017 14:12:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:12:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Enable_Menu_Item.php on line 57
+[28-Sep-2017 14:12:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:14:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[28-Sep-2017 14:14:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:14:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:14:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/menu_list.php on line 57
+[28-Sep-2017 14:27:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:27:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:27:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:27:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:27:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[28-Sep-2017 14:28:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:28:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Processed_Orders.php on line 60
+[28-Sep-2017 14:28:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:28:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[28-Sep-2017 14:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[28-Sep-2017 14:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[28-Sep-2017 14:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[28-Sep-2017 14:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[28-Sep-2017 14:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[28-Sep-2017 14:28:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 14:28:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:04:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:04:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:04:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[28-Sep-2017 16:16:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:16:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:16:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:17:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:17:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:18:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:22:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:25:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:28) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:25:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 59
+[28-Sep-2017 16:25:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:28) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:25:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 59
+[28-Sep-2017 16:25:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:28) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:25:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 59
+[28-Sep-2017 16:25:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:25:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:25:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:28) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:25:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 59
+[28-Sep-2017 16:28:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:28:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:28) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:28:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 59
+[28-Sep-2017 16:43:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:44:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:44:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:28) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[28-Sep-2017 16:44:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 59
+[29-Sep-2017 02:07:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:08:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:28) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:08:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 59
+[29-Sep-2017 02:17:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:17:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:30) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:17:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[29-Sep-2017 02:17:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:23:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:23:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:30) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:23:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[29-Sep-2017 02:23:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:23:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:23:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[29-Sep-2017 02:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[29-Sep-2017 02:23:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:24:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:24:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:24:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:30) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:24:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[29-Sep-2017 02:24:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:24:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:26:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:26:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:30) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:26:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 60
+[29-Sep-2017 02:29:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:29:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php:5) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:29:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 63
+[29-Sep-2017 02:31:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:35:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:36:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:37:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:37:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:38:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:38:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[29-Sep-2017 02:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[29-Sep-2017 02:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[29-Sep-2017 02:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 9
+[29-Sep-2017 02:47:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:48:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 02:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 02:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:04:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:05:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:05:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:31:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:32:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:05 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:06 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:08 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:08 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:10 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:10 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:33:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 63
+[29-Sep-2017 03:33:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Processed_Orders.php on line 62
+[29-Sep-2017 03:33:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 63
+[29-Sep-2017 03:33:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:33:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Processed_Orders.php on line 62
+[29-Sep-2017 03:33:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:34:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 63
+[29-Sep-2017 03:36:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:38:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:38:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:38:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:38:48 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:49 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:49 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:50 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:50 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:50 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:51 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:51 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:52 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:52 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:52 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:53 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:53 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:53 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:54 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:54 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:54 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:55 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:55 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:55 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:56 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:56 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:38:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:41:45 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:41:45 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:41:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:43:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:25 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:27 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:27 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:31 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:31 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:31 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:31 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:31 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 03:43:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 03:46:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:07:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:07:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:07:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:07:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:07:32 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 04:07:32 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 04:07:32 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 04:07:33 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 04:07:33 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 04:07:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:07:47 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 04:07:48 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/backend-search.php on line 10
+[29-Sep-2017 04:11:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:11:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:12:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:12:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:14:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:14:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:14:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:15:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:15:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:15:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:15:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:16:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:19:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:19:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:19:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:24:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:26:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:26:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:26:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:32:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:32:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:32:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:33:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:33:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:36:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:37:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:37:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:37:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:38:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:47:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:47:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:47:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:47:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:48:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:48:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:48:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:51:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:51:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:51:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:51:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:51:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:54:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:54:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:54:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:54:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:54:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:54:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:55:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:55:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:55:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:55:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/order_detail_process_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:55:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 04:56:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:26:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:26:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:26:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:27:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:29:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:33:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:34:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:34:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:55:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:55:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:56:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 08:56:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 09:00:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 09:00:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 09:01:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 09:05:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 09:12:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 09:16:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 10:10:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/register_process.php:71) in /home/wantreform/public_html/PlanMyRoute/Admin/register_process.php on line 106
+[29-Sep-2017 11:02:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:02:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/update_admin_profile_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:02:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:03:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/update_admin_profile_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:03:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:04:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:06:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:06:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:06:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:06:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:07:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:07:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:07:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:08:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:08:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:08:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:08:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:12:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/register_process.php:71) in /home/wantreform/public_html/PlanMyRoute/Admin/register_process.php on line 106
+[29-Sep-2017 11:33:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:33:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:33:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:33:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 11:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php:95
+Stack trace:
+#0 /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_process.php(78): Db_Operations->createMenuItem(15, 'Hotel Saravana ...', 'nazirfour@gmail...', '102, Sir Thyaga...', 'Chennai', 'Tamil Nadu', 'India', 'Butter Paneer M...', 'All', 1, 1, 1, 1, '150', 'uploads/788379_...')
+#1 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 95
+[29-Sep-2017 11:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php:95
+Stack trace:
+#0 /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_process.php(82): Db_Operations->createMenuItem(15, 'Hotel Saravana ...', 'nazirfour@gmail...', '102, Sir Thyaga...', 'Chennai', 'Tamil Nadu', 'India', 'Butter Paneer M...', 'All', 1, 1, 1, 1, '150', 'uploads/647255_...')
+#1 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 95
+[29-Sep-2017 12:02:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:02:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:02:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:02:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:03:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:03:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:04:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 38
+[29-Sep-2017 12:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 159
+[29-Sep-2017 12:04:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:50) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 163
+[29-Sep-2017 12:06:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:06:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 38
+[29-Sep-2017 12:06:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 159
+[29-Sep-2017 12:06:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:50) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 163
+[29-Sep-2017 12:07:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 162
+[29-Sep-2017 12:07:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:53) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 166
+[29-Sep-2017 12:08:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:08:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[29-Sep-2017 12:08:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 162
+[29-Sep-2017 12:08:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:53) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 166
+[29-Sep-2017 12:11:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:11:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[29-Sep-2017 12:11:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:53) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 166
+[29-Sep-2017 12:30:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:30:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 12:30:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[29-Sep-2017 12:30:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:49) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 152
+[29-Sep-2017 13:40:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:49) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 157
+[29-Sep-2017 13:41:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:41:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:42:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[29-Sep-2017 13:42:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php:49) in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_process.php on line 152
+[29-Sep-2017 13:44:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:48:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[29-Sep-2017 13:49:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:56:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:56:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:56:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:56:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/order_detail_process_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:56:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:56:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:56:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:57:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:57:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/update_admin_profile_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:57:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[29-Sep-2017 13:57:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[30-Sep-2017 10:03:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[30-Sep-2017 10:04:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/update_admin_profile_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[30-Sep-2017 10:04:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[30-Sep-2017 10:08:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 10:18:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 10:18:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 10:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php:93
+Stack trace:
+#0 /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_process.php(82): Db_Operations->createMenuItem(47, 'The Green City ...', 'nazirtest14@gma...', 'opposite to ban...', 'Miryalaguda', 'Telangana', 'India', 'Chickeb Biryani', 'All', 1, 1, 1, 1, '250', 'uploads/422513_...')
+#1 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 93
+[25-Oct-2017 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php:93
+Stack trace:
+#0 /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_process.php(83): Db_Operations->createMenuItem(47, 'The Green City ...', 'nazirtest14@gma...', 'opposite to ban...', 'Miryalaguda', 'Telangana', 'India', 'Chickeb Biryani', 'All', 1, 1, 1, 1, '250', 'uploads/129952_...')
+#1 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 93
+[25-Oct-2017 10:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php:93
+Stack trace:
+#0 /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_process.php(82): Db_Operations->createMenuItem(47, 'The Green City ...', 'nazirtest14@gma...', 'opposite to ban...', 'Miryalaguda', 'Telangana', 'India', 'Chickeb Biryani', 'All', 1, 1, 1, 1, '250', 'uploads/586644_...')
+#1 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 93
+[25-Oct-2017 10:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php:93
+Stack trace:
+#0 /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_process.php(82): Db_Operations->createMenuItem(47, 'The Green City ...', 'nazirtest14@gma...', 'opposite to ban...', 'Miryalaguda', 'Telangana', 'India', 'Chickeb Biryani', 'All', 1, 1, 1, 1, '250', 'uploads/530964_...')
+#1 {main}
+  thrown in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 93
+[25-Oct-2017 10:54:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 95
+[25-Oct-2017 10:54:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:04:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:04:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/wantreform/public_html/PlanMyRoute/Admin/Db_Operations.php on line 95
+[25-Oct-2017 11:04:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:19:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:19:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:37:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:43:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:47:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:48:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[25-Oct-2017 11:48:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[02-Dec-2017 05:50:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 04:58:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 04:58:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:00:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:01:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:01:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:02:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:03:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:04:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:04:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:05:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:05:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:06:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:07:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:09:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:09:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:09:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:10:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:11:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:11:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:13:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:28:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:28:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:35:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:36:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:36:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:37:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:38:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload.php:36) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 7
+[26-Jan-2018 05:38:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload.php:36) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 7
+[26-Jan-2018 05:43:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:43:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:54:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:56:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 05:57:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:00:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[26-Jan-2018 06:02:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:05:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[26-Jan-2018 06:05:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:38:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:38:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:43:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:45:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:50:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:52:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:53:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:53:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:54:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:59:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 06:59:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:00:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:06:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:06:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:07:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:07:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:11:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:11:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:16:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[26-Jan-2018 07:16:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[01-Feb-2018 06:07:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[12-Feb-2018 07:52:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[12-Feb-2018 08:08:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[12-Feb-2018 08:09:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[12-Feb-2018 08:10:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload.php:36) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 7
+[12-Feb-2018 08:10:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload.php:36) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 7
+[12-Feb-2018 08:10:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[12-Feb-2018 08:11:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/dataupload_success.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[02-May-2018 15:03:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:26:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:26:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:29:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:29:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:29:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 63
+[05-May-2018 13:30:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:30:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:30:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/Order_Detail.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:30:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:32:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:32:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/edit_menu_item.php on line 41
+[05-May-2018 13:33:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:34:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:35:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:35:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:35:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:36:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[05-May-2018 13:37:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wantreform/public_html/PlanMyRoute/Admin/Order_List.php on line 63
+[05-May-2018 13:37:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wantreform/public_html/PlanMyRoute/Admin/admin_operations.php:1) in /home/wantreform/public_html/PlanMyRoute/Admin/header_post_login.php on line 4
+[07-Sep-2018 01:20:06 America/Chicago] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php71/sess_e862beb43fcb025ad2c397e9d8f35d1b, O_RDWR) failed: No such file or directory (2) in /home2/mansurbaban/public_html/wantreform.org/PlanMyRoute/Admin/login_process.php on line 3
+[07-Sep-2018 01:20:06 America/Chicago] PHP Warning:  Unknown: open(/var/cpanel/php/sessions/ea-php71/sess_e862beb43fcb025ad2c397e9d8f35d1b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[07-Sep-2018 01:20:06 America/Chicago] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php71) in Unknown on line 0
+[21-Mar-2019 11:07:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/mansurbaban/public_html/wantreform.org/PlanMyRoute/Admin/admin_operations.php:20) in /home2/mansurbaban/public_html/wantreform.org/PlanMyRoute/Admin/header_post_login.php on line 4
+[21-Mar-2019 11:07:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/mansurbaban/public_html/wantreform.org/PlanMyRoute/Admin/Order_List.php on line 63
+[21-Mar-2019 11:07:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/mansurbaban/public_html/wantreform.org/PlanMyRoute/Admin/Order_List.php on line 63
+[21-Mar-2019 11:08:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/mansurbaban/public_html/wantreform.org/PlanMyRoute/Admin/admin_operations.php:20) in /home2/mansurbaban/public_html/wantreform.org/PlanMyRoute/Admin/header_post_login.php on line 4
