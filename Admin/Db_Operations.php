@@ -6,12 +6,18 @@ include_once 'Logging.php';
 
 class Db_Operations {       
     
-   private static $_dbUser = 'mansurbaban';
-   private static $_dbPass = 'Khadarsil2018';
+   //private static $_dbUser = 'mansurbaban';
+   //private static $_dbPass = 'Khadarsil2018';   
+   //private static $_dbDB = 'mansurba_customerdb';
+   //private static $_dbHost = 'localhost';
+  
+   private static $_dbUser = 'xvi1krqqd2x3g1oo';
+   private static $_dbPass = 'k5cv5z51owpxy27p';
    //private static $_dbDB = 'wantrefo_customerdb';
-   private static $_dbDB = 'mansurba_customerdb';
-   private static $_dbHost = 'localhost';
-   
+   private static $_dbDB = 'y0827d64hc2cp22e';
+   private static $_dbHost = 'z37udk8g6jiaqcbx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+  
+	
    
    private static $_connection = NULL;
     
